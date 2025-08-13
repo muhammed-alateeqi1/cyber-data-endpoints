@@ -1,0 +1,11 @@
+{
+      "initiatorsTypes": [
+    { "type": "State-Sponsored", "count": 150 },
+    { "type": "Cybercriminal Group", "count": 130 },
+    { "type": "Hacktivist", "count": 70 },
+    { "type": "Insider", "count": 50 },
+    { "type": "Script Kiddie", "count": 40 },
+    { "type": "Terrorist Organization", "count": 30 },
+    { "type": "Lone Wolf", "count": 20 }
+  ]
+}

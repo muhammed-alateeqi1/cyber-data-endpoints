@@ -1,0 +1,9 @@
+{
+      "responses": [
+    { "response": "Incident Reported", "count": 300 },
+    { "response": "Mitigation Applied", "count": 250 },
+    { "response": "System Shutdown", "count": 60 },
+    { "response": "Data Recovery", "count": 120 },
+    { "response": "Ongoing Investigation", "count": 90 }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+      "targetedSectors": [
+    { "sector": "Government", "count": 180 },
+    { "sector": "Finance", "count": 140 },
+    { "sector": "Healthcare", "count": 110 },
+    { "sector": "Energy", "count": 90 },
+    { "sector": "Education", "count": 75 }
+  ]
+}

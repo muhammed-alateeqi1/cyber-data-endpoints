@@ -1,0 +1,7 @@
+{
+      "initiatorsCountries": [
+    { "country": "Russia", "count": 120 },
+    { "country": "China", "count": 100 },
+    { "country": "North Korea", "count": 80 }
+  ]
+}

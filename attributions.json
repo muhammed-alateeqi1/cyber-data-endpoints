@@ -1,0 +1,9 @@
+{
+      "attributions": [
+    { "attack": "Ransomware", "attributedTo": "Conti Group" },
+    { "attack": "DDoS", "attributedTo": "Killnet" },
+    { "attack": "Phishing", "attributedTo": "Unknown Group" },
+    { "attack": "Zero-Day Exploit", "attributedTo": "APT28" },
+    { "attack": "Data Breach", "attributedTo": "Lazarus Group" }
+  ]
+}
